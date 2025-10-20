@@ -1,6 +1,6 @@
 🎯 Project Title
 
-Netflix Data Analysis (2008–2021)
+Netflix Data Analysis
 
 🧩 Introduction
 
